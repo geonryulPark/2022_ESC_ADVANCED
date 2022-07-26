@@ -1,0 +1,23 @@
+Question 1
+In Kotlin, SAM stands for:
+
+Ans : Single Abastract Method
+
+
+Question 2
+Which one of the following is not a Kotlin Standard Library 
+extension function?
+
+Ans : elvis()
+
+
+Question 3
+Which one of the following is not true of lambdas in Kotlin?
+
+Ans : Lambdas are resources intensive and shouldn't be used.
+
+
+Question 4
+Labels in Kotlin are indicated with an identifier followed by:
+
+Ans @
